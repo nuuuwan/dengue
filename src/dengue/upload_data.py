@@ -1,12 +1,11 @@
 """Uploaded data to nuuuwan/dengue:data branch."""
 
-import os
+from dengue import epid
 
 
 def upload_data():
     """Upload data."""
-    os.system('echo "test data" > /tmp/dengue.test.txt')
-    os.system('echo "# dengue" > /tmp/README.md')
+    epid._scrape_and_dump()
 
 
 if __name__ == '__main__':

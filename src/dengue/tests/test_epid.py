@@ -2,15 +2,18 @@
 
 import unittest
 
-from dengue import run_dengue
+from dengue import epid
 
 
 class TestCase(unittest.TestCase):
     """Tests."""
 
-    def test_dump(self):
+    def test_rdhs_to_district(self):
         """Test."""
-        self.assertTrue(run_dengue._dump())
+        self.assertEqual(
+            epid._rdhs_to_district('Colombo'),
+            'LK-11',
+        )
 
 
 if __name__ == '__main__':
