@@ -176,14 +176,16 @@ def _dump_summary():
         if prev_item:
             item['total_new_cases'] -= prev_item['total_cum_cases']
 
-        extended_by_rdhs = []
-        for i, for_rdhs in enumerate(item['by_rhds']):
-            for_rdhs['new_cases'] = for_rdhs['cum_cases']
+            extended_by_rdhs = []
+            for i, for_rdhs in enumerate(item['by_rhds']):
+                for_rdhs['new_cases'] = for_rdhs['cum_cases']
 
-            if prev_item:
-                for_rdhs['new_cases'] -= prev_item['by_rhds'][i]['cum_cases']
-            extended_by_rdhs.append(for_rdhs)
-        item['by_rhds'] = extended_by_rdhs
+                if prev_item:
+                    for_rdhs['new_cases'] -= prev_item['by_rhds'][i][
+                        'cum_cases'
+                    ]
+                extended_by_rdhs.append(for_rdhs)
+            item['by_rhds'] = extended_by_rdhs
 
         extended_timeseries.append(item)
         prev_item = item
