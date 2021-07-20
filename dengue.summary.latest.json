@@ -2268,5 +2268,169 @@
     ],
     "total_cum_cases": 10013,
     "total_new_cases": 173
+  },
+  {
+    "date": "2021-07-20",
+    "ut": 1626739200,
+    "by_rhds": [
+      {
+        "rdhs_name": "Colombo",
+        "district_id": "LK-11",
+        "cum_cases": 2180,
+        "new_cases": 17
+      },
+      {
+        "rdhs_name": "Gampaha",
+        "district_id": "LK-12",
+        "cum_cases": 891,
+        "new_cases": 38
+      },
+      {
+        "rdhs_name": "Kalutara",
+        "district_id": "LK-13",
+        "cum_cases": 572,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Kandy",
+        "district_id": "LK-21",
+        "cum_cases": 389,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Matale",
+        "district_id": "LK-22",
+        "cum_cases": 76,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Nuwara Eliya",
+        "district_id": "LK-23",
+        "cum_cases": 32,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Galle",
+        "district_id": "LK-31",
+        "cum_cases": 142,
+        "new_cases": 1
+      },
+      {
+        "rdhs_name": "Matara",
+        "district_id": "LK-32",
+        "cum_cases": 297,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Hambantota",
+        "district_id": "LK-33",
+        "cum_cases": 225,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Jaffna",
+        "district_id": "LK-41",
+        "cum_cases": 116,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Mannar",
+        "district_id": "LK-42",
+        "cum_cases": 20,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Vavuniya",
+        "district_id": "LK-43",
+        "cum_cases": 35,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Mulativu",
+        "district_id": "LK-44",
+        "cum_cases": 5,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Kilinochchi",
+        "district_id": "LK-45",
+        "cum_cases": 22,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Batticaloa",
+        "district_id": "LK-51",
+        "cum_cases": 2975,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Ampara",
+        "district_id": "LK-52",
+        "cum_cases": 27,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Kalmunai",
+        "district_id": "LK-52",
+        "cum_cases": 265,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Trincomalee",
+        "district_id": "LK-53",
+        "cum_cases": 96,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Kurunegala",
+        "district_id": "LK-61",
+        "cum_cases": 571,
+        "new_cases": 15
+      },
+      {
+        "rdhs_name": "Puttalam",
+        "district_id": "LK-62",
+        "cum_cases": 235,
+        "new_cases": 2
+      },
+      {
+        "rdhs_name": "Anuradhapura",
+        "district_id": "LK-71",
+        "cum_cases": 129,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Polonnaruwa",
+        "district_id": "LK-72",
+        "cum_cases": 49,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Badulla",
+        "district_id": "LK-81",
+        "cum_cases": 74,
+        "new_cases": 5
+      },
+      {
+        "rdhs_name": "Moneragala",
+        "district_id": "LK-82",
+        "cum_cases": 82,
+        "new_cases": 0
+      },
+      {
+        "rdhs_name": "Ratnapura",
+        "district_id": "LK-91",
+        "cum_cases": 315,
+        "new_cases": 5
+      },
+      {
+        "rdhs_name": "Kegalle",
+        "district_id": "LK-92",
+        "cum_cases": 285,
+        "new_cases": 9
+      }
+    ],
+    "total_cum_cases": 10105,
+    "total_new_cases": 92
   }
 ]
