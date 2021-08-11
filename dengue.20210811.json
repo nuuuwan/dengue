@@ -1,0 +1,470 @@
+[
+  {
+    "rdhs_name": "Colombo",
+    "district_id": "LK-11",
+    "data_by_month": [
+      127,
+      192,
+      372,
+      443,
+      196,
+      534,
+      635,
+      37,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Gampaha",
+    "district_id": "LK-12",
+    "data_by_month": [
+      94,
+      127,
+      194,
+      180,
+      55,
+      185,
+      251,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kalutara",
+    "district_id": "LK-13",
+    "data_by_month": [
+      82,
+      64,
+      122,
+      148,
+      63,
+      110,
+      136,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kandy",
+    "district_id": "LK-21",
+    "data_by_month": [
+      67,
+      48,
+      51,
+      90,
+      37,
+      40,
+      125,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Matale",
+    "district_id": "LK-22",
+    "data_by_month": [
+      12,
+      5,
+      11,
+      9,
+      6,
+      16,
+      43,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Nuwara Eliya",
+    "district_id": "LK-23",
+    "data_by_month": [
+      5,
+      1,
+      8,
+      9,
+      4,
+      3,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Galle",
+    "district_id": "LK-31",
+    "data_by_month": [
+      19,
+      15,
+      28,
+      36,
+      16,
+      28,
+      25,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Hambantota",
+    "district_id": "LK-33",
+    "data_by_month": [
+      18,
+      28,
+      32,
+      48,
+      18,
+      39,
+      69,
+      7,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Matara",
+    "district_id": "LK-32",
+    "data_by_month": [
+      28,
+      33,
+      31,
+      55,
+      15,
+      93,
+      104,
+      10,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Jaffna",
+    "district_id": "LK-41",
+    "data_by_month": [
+      44,
+      19,
+      22,
+      11,
+      10,
+      10,
+      4,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kilinochchi",
+    "district_id": "LK-45",
+    "data_by_month": [
+      10,
+      6,
+      1,
+      3,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Mannar",
+    "district_id": "LK-42",
+    "data_by_month": [
+      4,
+      4,
+      6,
+      5,
+      0,
+      1,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Vavuniya",
+    "district_id": "LK-43",
+    "data_by_month": [
+      4,
+      11,
+      7,
+      5,
+      3,
+      2,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Mulativu",
+    "district_id": "LK-44",
+    "data_by_month": [
+      2,
+      1,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Batticaloa",
+    "district_id": "LK-51",
+    "data_by_month": [
+      1132,
+      988,
+      421,
+      278,
+      91,
+      50,
+      26,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Ampara",
+    "district_id": "LK-52",
+    "data_by_month": [
+      2,
+      4,
+      5,
+      6,
+      4,
+      5,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Trincomalee",
+    "district_id": "LK-53",
+    "data_by_month": [
+      13,
+      33,
+      26,
+      18,
+      3,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kurunegala",
+    "district_id": "LK-61",
+    "data_by_month": [
+      62,
+      54,
+      164,
+      151,
+      49,
+      73,
+      125,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Puttalam",
+    "district_id": "LK-62",
+    "data_by_month": [
+      49,
+      32,
+      47,
+      52,
+      11,
+      27,
+      30,
+      8,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Anuradhapura",
+    "district_id": "LK-71",
+    "data_by_month": [
+      13,
+      9,
+      26,
+      30,
+      30,
+      13,
+      22,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Polonnaruwa",
+    "district_id": "LK-72",
+    "data_by_month": [
+      2,
+      6,
+      10,
+      10,
+      11,
+      8,
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Badulla",
+    "district_id": "LK-81",
+    "data_by_month": [
+      14,
+      2,
+      9,
+      23,
+      7,
+      11,
+      17,
+      2,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Moneragala",
+    "district_id": "LK-82",
+    "data_by_month": [
+      5,
+      9,
+      16,
+      16,
+      5,
+      15,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Ratnapura",
+    "district_id": "LK-91",
+    "data_by_month": [
+      38,
+      44,
+      90,
+      60,
+      34,
+      21,
+      54,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kegalle",
+    "district_id": "LK-92",
+    "data_by_month": [
+      23,
+      31,
+      55,
+      92,
+      38,
+      25,
+      44,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "rdhs_name": "Kalmunai",
+    "district_id": "LK-52",
+    "data_by_month": [
+      36,
+      41,
+      64,
+      69,
+      36,
+      14,
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]
